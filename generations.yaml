@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Up"
+
+generations:
+  - name: "e-Up (2013)"
+    start_year: 2013
+    end_year: 2023
+    description: "The battery-electric version of the Volkswagen Up city car, sharing its body with the SEAT Mii Electric and Skoda Citigo e iV. It launched with an 18.7 kWh battery; the 2019 update raised it to 32.3 kWh usable and added CCS fast charging as standard in most markets."
